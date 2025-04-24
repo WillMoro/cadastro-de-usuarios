@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/686d8b0b-dce9-4ee6-aa44-38e8c9d9124d)
+
+
 <h1 align="center"> ❗ Back-end: API Rest desenvolvida com Node.js</h1>
 <p align="center">API desenvolvida para armazenar dados de cadastro em um servidor</p>
 
